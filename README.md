@@ -4,3 +4,5 @@ Projede bağımlılıkları azaltmak için .net kütüpanelerinin haricinde bir 
 
 
 Projede DDD Pattern kullanıldı.
+
+Projenin çalışması için .net Core 3.1 in kurulu olması gerekmektedir
